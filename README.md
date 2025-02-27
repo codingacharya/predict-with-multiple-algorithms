@@ -6,7 +6,7 @@ step 2: cd predict-with-multiple-algorithms
 
 step 3: pip install streamlit pandas numpy scikit-learn xgboost
 
-step 4: streamlit run predict with multiple algorithms.py
+step 4: streamlit run app.py
 
 
  
